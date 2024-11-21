@@ -2,7 +2,7 @@
 
 **murSurvey**  is a web application that allows you to create online surveys.
 
-***Note: Currently in the development phase (approximately 65% complete, planning end date: 19 November 2024)***
+***Note: Currently in the development phase (approximately 65% complete)***
 
 ---
 
